@@ -14,4 +14,4 @@ Batch 4 -- Organic Farming
 https://greenroots-766704685496.asia-southeast1.run.app
 
 Batch 5 -- Student safety & Awareness
-Studentsafety-hub.netlify.app
+https://studentsafety-hub.netlify.app/
