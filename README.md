@@ -18,3 +18,6 @@ https://studentsafety-hub.netlify.app/
 
 Batch 7 -- Social Impact On Market Place 
 https://janu2468.github.io/HandiHub/
+
+Batch 8 -- Water Management
+https://sameer-1515.github.io/watermanagementsystem/
