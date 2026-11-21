@@ -15,3 +15,6 @@ https://greenroots-766704685496.asia-southeast1.run.app
 
 Batch 5 -- Student safety & Awareness
 https://studentsafety-hub.netlify.app/
+
+Batch 7 -- Social Impact On Market Place 
+https://janu2468.github.io/HandiHub/
