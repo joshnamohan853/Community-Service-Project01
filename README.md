@@ -1,4 +1,4 @@
-# CSP
+# Community Service Project 
 
 Batch 1 -- Cyber Safety
 https://hemanthayyangar-lgtm.github.io/cyber-safety-awareness/
